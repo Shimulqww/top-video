@@ -1,0 +1,7 @@
+name = "my-static-site"
+type = "javascript"
+compatibility_date = "2025-05-28"
+
+[site]
+bucket = "./public"
+entry-point = "."
