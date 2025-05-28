@@ -1,0 +1,6 @@
+name = "top video"
+compatibility_date = "2025-05-28"
+
+[site]
+bucket = "./dist"
+entry-point = "."
