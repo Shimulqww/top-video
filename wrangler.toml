@@ -1,6 +1,5 @@
-name = "top-xxx-video"
+name = "usa-video"
 compatibility_date = "2025-05-28"
 
 [site]
 bucket = "./dist"
-entry-point = "."
